@@ -1,0 +1,29 @@
+Title: Stay Safe Online – Cybercrime Prevention Checklist
+
+General Safety Tips:
+- Always verify the sender’s email address before trusting any message.
+- Avoid clicking on suspicious or unknown links received via email or SMS.
+- Check the URL of websites carefully before entering login details.
+- Use strong and unique passwords for different accounts.
+- Enable two-factor authentication (2FA) wherever possible.
+- Keep your devices and software updated regularly.
+- Do not download files or attachments from unknown sources.
+- Be cautious of messages that create urgency or fear.
+
+UPI and Financial Safety:
+- Always double-check the UPI ID before sending money.
+- Never share your OTP, PIN, or banking credentials with anyone.
+- Avoid scanning QR codes from unknown or untrusted sources.
+- Use official apps for financial transactions.
+
+Social Media Safety:
+- Do not share personal information publicly on social media.
+- Adjust privacy settings to control who can see your posts.
+- Avoid accepting friend requests from unknown people.
+
+Reporting Cybercrime:
+- Report cybercrime incidents at: https://cybercrime.gov.in
+- Contact helpline number: 1930 (available 24x7)
+
+Conclusion:
+Following these simple precautions can help individuals protect themselves from cyber threats and ensure safe use of digital platforms.

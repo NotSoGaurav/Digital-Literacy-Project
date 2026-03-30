@@ -1,0 +1,33 @@
+Title: Phishing Attack on a College Student – A Detailed Case Study
+
+Introduction:
+With the rapid growth of digital technology, cybercrimes have become increasingly common. One of the most widespread forms of cybercrime is phishing. Phishing is a technique used by attackers to trick individuals into revealing sensitive information such as usernames, passwords, bank details, or OTPs by pretending to be a trusted entity. This case study explores a real-world-like phishing scenario involving a college student and highlights how such attacks occur and how they can be prevented.
+
+Background:
+College students are among the most active users of digital platforms, including emails, social media, and online banking services. Due to their frequent online presence and sometimes limited awareness of cybersecurity threats, they are often targeted by cybercriminals.
+
+Case Description:
+In this case, a first-year college student received an email that appeared to be from a reputed bank. The email had an official logo, professional formatting, and a subject line stating: "Urgent: Your Account Will Be Blocked". The email claimed that suspicious activity had been detected in the student’s bank account and immediate verification was required.
+
+The email contained a link labeled "Verify Now". Trusting the message, the student clicked on the link. The link redirected the student to a fake website that looked identical to the official bank website. The layout, colors, and branding were carefully copied to appear genuine.
+
+The student entered their login credentials, including their username and password. After logging in, the website prompted the student to enter a One-Time Password (OTP) sent to their registered mobile number. Without suspecting anything, the student entered the OTP.
+
+Within a few minutes, multiple unauthorized transactions were carried out from the student’s bank account. By the time the student realized something was wrong, a significant amount of money had already been transferred.
+
+Attack Analysis:
+This phishing attack was successful due to the use of social engineering techniques. The attacker created a sense of urgency and fear, forcing the victim to act quickly without verifying the authenticity of the message. The fake website was highly convincing, making it difficult to distinguish from the real one.
+
+The attacker likely used a phishing kit, which is a pre-designed tool that allows cybercriminals to easily create fake websites and capture user data.
+
+Target Group:
+Students are a common target for phishing attacks because they frequently use digital services such as online banking, UPI payments, and emails. Many students are not fully aware of how to identify suspicious links or fraudulent messages.
+
+Consequences:
+The consequences of this attack included financial loss, emotional stress, and compromise of personal information. The student had to immediately contact the bank, block their account, and report the incident to the cybercrime helpline. The recovery process was time-consuming and stressful.
+
+Preventive Measures:
+This case highlights the importance of awareness and cautious behavior while using digital platforms. Users should always verify the sender’s email address, avoid clicking on unknown links, and never share sensitive information such as passwords or OTPs.
+
+Conclusion:
+Phishing attacks continue to evolve and become more sophisticated. This case study demonstrates how easily individuals can fall victim to such attacks if they are not careful. By practicing safe online habits and staying informed about cyber threats, individuals can protect themselves from becoming victims of phishing and other cybercrimes.
