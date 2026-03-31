@@ -23,7 +23,7 @@ Created an infographic using Canva to explain digital literacy, safe internet pr
 Created and updated profiles on:
 - GitHub
 - LinkedIn
-- Cisco Networking Academy
+- Leetcode
 
 Screenshots are included in the task-2-portfolio folder.
 
